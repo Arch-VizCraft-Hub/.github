@@ -2,7 +2,7 @@
 
 ![Visitors: 65K+](https://img.shields.io/badge/Visitors-65K+-blue) ![Members: 42K+](https://img.shields.io/badge/Members-42K+-green) ![Established: 2025](https://img.shields.io/badge/Established-2025-orange)
 
-![LumionLearningHub Banner](https://i.ytimg.com/vi/4ZMSRGVtWhw/maxresdefault.jpg)
+![LumionLearningHub Banner](https://i.ytimg.com/vi/tW4qoeSMQKk/maxresdefault.jpg)
 
 **About LumionLearningHub**: LumionLearningHub is a community established in 2025, dedicated to supporting users of **Lumion 12**. We provide educational materials, guides, and tips for Windows users, helping architects and designers enhance their 3D rendering skills. With 65K+ visitors and 42K+ members, we create a reliable space for mastering Lumion in 2025.
 
